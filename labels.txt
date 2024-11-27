@@ -1,0 +1,5 @@
+0 Gato
+1 Periquito
+2 caballo
+3 Perro
+4 Lobo
