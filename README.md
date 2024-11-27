@@ -1,2 +1,3 @@
 # proyecto_reconcimiento_Discord
-un proyecto de reconocimientos de imágenes en código de visual estudio mediante un Bot de Discord
+Un proyecto echo con Machine Learning , python, discord y el codigo redactado en visual estudio
+la idea del proyecto es un metodo de reconocimiento de imagenes en Discord, todo esto mediante un bot que esta desarrollado por visual estudio 
